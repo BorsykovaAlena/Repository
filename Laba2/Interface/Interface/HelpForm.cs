@@ -23,7 +23,7 @@ namespace Interface
         public ComplexResistance Console { get { return ElementControl.Console; } set { ElementControl.Console = value; } }
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult = DialogResult.OK;
+            DialogResult = DialogResult.OK;//Кнопка ОК
             Close();
         }
 

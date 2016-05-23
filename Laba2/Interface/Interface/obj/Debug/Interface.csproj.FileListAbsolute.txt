@@ -61,3 +61,6 @@ C:\Users\Василий\Desktop\спо\2лабараторная\Laba2\Interface
 C:\Users\Василий\Desktop\спо\2лабараторная\Laba2\Interface\Interface\obj\Debug\Interface.HelpForm.resources
 C:\Users\Василий\Desktop\спо\2лабараторная\Laba2\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
 C:\Users\Василий\Desktop\спо\2лабараторная\Laba2\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Василий\Desktop\asdfghj\Laba2\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Василий\Desktop\asdfghj\Laba2\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Василий\Desktop\asdfghj\Laba2\Interface\Interface\obj\Debug\Interface.pdb
